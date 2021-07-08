@@ -1,0 +1,11 @@
+li {
+    margin: 4px 4px 0px 0px;
+    font-family: open sans;
+    width: fit-content;
+    height: auto;
+    background-color: skyblue;
+    color: black;
+    border-radius: 80px;
+    display: inline-block;
+    padding: 5px;
+}
